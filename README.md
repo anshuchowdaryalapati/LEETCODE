@@ -1,2 +1,3 @@
-# LEETCODE
-Hey fellow coders! 🚀 Excited to share my GitHub repo for DSA on LeetCode. 📚 Dive into clear solutions, killer tips, and a supportive community. Let's level up our coding game together! 💻✨ #CodeMasters #LeetCodeAdventures
+# ✨ Data Science Skills Acquisition Journey - My Career Chronicle ✨
+Hey fellow racers of this tech era . Welcome to the repository documenting my journey in acquiring data science skills! This space serves as a comprehensive record of my career progression, outlining the steps I've taken to develop proficiency in the field of data science.
+#CodeMasters #LeetCodeAdventures #SQL #R #Python #Numpy #Pandas #MachineLearning #DataAnalytics #Statistics #AnalyticalSkills
